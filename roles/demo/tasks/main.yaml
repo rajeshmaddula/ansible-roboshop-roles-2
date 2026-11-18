@@ -1,4 +1,4 @@
 - name: task from demo
   ansible.builtin.debug:
-    msg: "{{ Hello from role demo }}"
+    msg: " Hello from role demo "
   
